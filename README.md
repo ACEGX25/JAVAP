@@ -1,4 +1,4 @@
-**# Simple Calculator **
+*# Simple Calculator *
 
 Built with Java, Swing, and AWT by @acegx25
 
@@ -19,11 +19,11 @@ Error handling for invalid input
 ## Getting Started
 
 Download the application:
-You can download the pre-built application directly from this link: https://drive.google.com/uc?export=download&id=1jrLVpPXJpT2xDxNuamFRkCnWpml94aIk
+You can download the pre-built application directly from [here:] (https://drive.google.com/uc?export=download&id=1jrLVpPXJpT2xDxNuamFRkCnWpml94aIk)
 Alternatively, clone the repository:
 Bash
 git clone https://github.com/acegx25/Simple-Calculator.git
-Use code with caution. Learn more
+
 Navigate to the project directory:
 
 Bash
